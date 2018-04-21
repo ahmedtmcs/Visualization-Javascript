@@ -59,7 +59,6 @@ function setupXScale()
       .paddingInner(0.10)
   }
   
-  
 function setupYScale()
   {
     var maxSales = d3.max(totalSales, function(d, i) {
