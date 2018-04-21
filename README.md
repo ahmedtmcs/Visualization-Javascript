@@ -25,5 +25,5 @@ _______________________
     Master in ADVANCED ANALYTICS ON BIG DATA
 
 
-For further information, please send and email to:
+For further information, please send an email to:
     **ahmedtazi@hotmail.com**
